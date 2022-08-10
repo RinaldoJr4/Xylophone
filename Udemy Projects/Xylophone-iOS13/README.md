@@ -1,6 +1,6 @@
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
-# Xylophone (clone)
+# Xylophone (Modified clone)
 
 ## Our Goal
 
